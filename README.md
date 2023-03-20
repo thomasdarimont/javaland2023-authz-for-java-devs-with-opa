@@ -1,2 +1,4 @@
-# javaland2023-authz-for-java-devs-with-opa
+Flexible Authorization for Java Applications with Open Policy Agent
+----
+
 Slides &amp; Code
